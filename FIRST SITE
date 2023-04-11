@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Produktname - Startseite</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">Startseite</a></li>
+				<li><a href="#">Produktfunktionen</a></li>
+				<li><a href="#">Preise</a></li>
+				<li><a href="#">Kontakt</a></li>
+			</ul>
+		</nav>
+		<h1>Produktname</h1>
+		<p>Eine kurze Beschreibung Ihres Produkts.</p>
+		<a href="#" class="cta-button">Jetzt kaufen</a>
+	</header>
+	
+	<main>
+		<section>
+			<h2>Was unser Produkt kann</h2>
+			<p>Hier können Sie die Funktionen Ihres Produkts beschreiben und hervorheben, was es von anderen Produkten auf dem Markt unterscheidet.</p>
+		</section>
+		
+		<section>
+			<h2>Wie es funktioniert</h2>
+			<p>Beschreiben Sie hier, wie Ihr Produkt funktioniert und wie es Ihrem Kunden helfen kann.</p>
+		</section>
+		
+		<section>
+			<h2>Preise</h2>
+			<p>Stellen Sie hier Ihre Preise und Abonnementoptionen vor.</p>
+		</section>
+		
+		<section>
+			<h2>Kontakt</h2>
+			<p>Stellen Sie Ihre Kontaktinformationen vor, damit Kunden Sie erreichen können.</p>
+		</section>
+	</main>
+	
+	<footer>
+		<p>© Jahr, Ihr Unternehmen. Alle Rechte vorbehalten.</p>
+	</footer>
+</body>
+</html>
